@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.dalbitresb</groupId>
-    <artifactId>springstarter</artifactId>
+    <artifactId>SpringStarter</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>springstarter</name>
-    <description>springstarter</description>
+    <name>SpringStarter</name>
+    <description>Spring Web Application starter app</description>
     <properties>
         <java.version>17</java.version>
     </properties>
