@@ -1,4 +1,14 @@
-# Getting Started
+# [Spring Starter](https://github.com/dalbitresb12/spring-starter)
+
+This [template](https://github.com/dalbitresb12/spring-starter) should help get you started developing a Web API using Spring.
+
+This project was generated using IntelliJ IDEA Spring Web API template using version 2021.3.3.
+
+## Getting Started
+
+### Recommended IDE Setup
+
+[JetBrains IntelliJ IDEA](https://www.jetbrains.com/idea/)
 
 ### Reference Documentation
 
@@ -25,3 +35,7 @@ The following guides illustrate how to use some features concretely:
 * [Spring Boot and OAuth2](https://spring.io/guides/tutorials/spring-boot-oauth2/)
 * [Authenticating a User with LDAP](https://spring.io/guides/gs/authenticating-ldap/)
 * [Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/)
+
+# License
+
+[MIT](LICENSE)
